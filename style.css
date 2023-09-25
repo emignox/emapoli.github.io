@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(146, 38, 38);
+}
+h1{
+    font-size: 70px;
+    text-align: center;
+    margin-top: 250px;
+    color: white;
+    font-family: sans-serif;
+}
+
+
+article{
+    color: white;
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.icons{
+    margin-top: 60px;
+    margin-left: 35%;
+    color: rgb(154, 154, 154);
+}
+
+
+
